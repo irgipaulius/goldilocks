@@ -1,0 +1,13 @@
+{
+  "name": "goldilocks",
+  "compatibility_date": "2026-10-02",
+  "assets": {
+    "directory": "./spain-winter"
+  },
+  "routes": [
+    {
+      "pattern": "goldilocks.hyperreader.eu",
+      "custom_domain": true
+    }
+  ]
+}
